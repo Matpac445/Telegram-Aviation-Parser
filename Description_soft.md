@@ -47,4 +47,5 @@ Telegram Aviation Parser - утилита на Python с графическим 
 Программное обеспечение распространяется на условиях **MIT License** (файл `LICENSE`).
 
 ## 7. Контакт
-Email: <as.ign@mail.ru>
+Email: as.ign@mail.ru
+Telegram: @la_t0rtuga
