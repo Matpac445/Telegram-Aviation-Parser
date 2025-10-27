@@ -4,4 +4,4 @@
 https://github.com/Matpac445/Telegram-Aviation-Parser
 
 Дата: 27.10.2025
-Контакт: as.ign@Mail.ru
+Контакт: as.ign@mail.ru
